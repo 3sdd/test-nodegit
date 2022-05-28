@@ -1,5 +1,11 @@
 {
-  "data": [],
+  "data": [
+    {
+      "data-name1":"test",
+      "data-name2":1,
+      "data-name3":"test2"
+    }
+  ],
   "createdAt": "2022-05-28T13:06:56.469Z",
   "updatedAt": "2022-05-28T13:06:56.469Z"
 }
