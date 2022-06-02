@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "createdAt": {
+      "type": "string",
+      "description": "作成日"
+    },
+    "updatedAt": {
+      "type": "string",
+      "description": "更新日"
+    },
+    "data": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "ID"
+          },
+          "data1": {
+            "type": "string",
+            "description": ""
+          }
+        }
+      },
+      "description": "データ"
+    }
+  },
+  "required": [
+    "createdAt",
+    "updatedAt",
+    "data"
+  ]
+}
