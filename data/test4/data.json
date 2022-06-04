@@ -1,16 +1,11 @@
 {
   "data": [
     {
-      "data1": "test",
-      "data2": 0,
-      "id": "6aa94779-6bff-44cd-8068-f40b1ebd457a"
-    },
-    {
       "data1": "3",
       "data2": 3,
       "id": "4c82f551-01cb-4bff-9a9c-f1dd071a3362"
     }
   ],
   "createdAt": "2022-05-28T15:43:38.093Z",
-  "updatedAt": "2022-06-04T18:06:22.835Z"
+  "updatedAt": "2022-06-04T18:09:08.896Z"
 }
