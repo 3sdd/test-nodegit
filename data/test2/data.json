@@ -29,8 +29,17 @@
       "img": "file",
       "num": 0,
       "id": "36f818b6-bb3c-47e4-8e40-13b303bb0183"
+    },
+    {
+      "fields": {
+        "num": 3
+      },
+      "images": {
+        "img": "C:\\Users\\tomo\\AppData\\Local\\Temp\\ac067d81-64ee-44ae-9857-8ca2b56261a2.png"
+      },
+      "id": "a6612821-9834-4f04-89dc-b8e0f33a88fd"
     }
   ],
   "createdAt": "2022-06-09T09:21:57.154Z",
-  "updatedAt": "2022-06-10T08:25:08.216Z"
+  "updatedAt": "2022-06-10T08:30:45.848Z"
 }
