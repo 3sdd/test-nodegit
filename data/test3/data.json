@@ -9,8 +9,13 @@
       "num": 3,
       "img": "images/bc77f825-2d0b-46a5-8966-d818184fc40a.png",
       "id": "f9c97299-7cc8-443d-a21d-d1f4139dbd61"
+    },
+    {
+      "num": 2,
+      "img": "images/aeddeda3-1cd1-4ac3-b814-9e583020749a.png",
+      "id": "18eecfea-52de-4436-b6e7-9eb37c9807f8"
     }
   ],
   "createdAt": "2022-06-10T09:13:39.856Z",
-  "updatedAt": "2022-06-10T12:57:50.460Z"
+  "updatedAt": "2022-06-10T16:33:27.971Z"
 }
